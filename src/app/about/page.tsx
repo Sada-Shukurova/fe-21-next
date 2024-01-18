@@ -1,7 +1,11 @@
-
-
 const AboutPage = () => {
-  return <div>About Page</div>;
+  return (
+    <div>
+      <h1>About Page</h1>
+      <h2>Hello World</h2>
+      <h2>♡ Meow</h2>
+    </div>
+  );
 };
 
 export default AboutPage;

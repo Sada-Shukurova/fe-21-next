@@ -19,6 +19,7 @@ const ProductsPage = async () => {
           <div key={id}>
             <h1>{title}</h1>
             <Image src={cover_image} alt="image" width={100} height={100} />
+            <h2>{author}</h2>
           </div>
         );
       })}
