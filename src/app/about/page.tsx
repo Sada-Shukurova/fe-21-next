@@ -3,7 +3,7 @@ const AboutPage = () => {
     <div>
       <h1>About Page</h1>
       <h2>Hello World</h2>
-      <h2>♡ Meow</h2>
+      <h2>♡♡♡</h2>
     </div>
   );
 };
